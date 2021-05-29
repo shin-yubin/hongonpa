@@ -29,3 +29,5 @@ list_of_list = [
 for a in list_of_list:
     for b in a:
         print(b)
+
+        
